@@ -220,7 +220,7 @@ const adventurer = {
   };
   
   // Your code here:
-  let cat = adventurer.cat?.age
+  let cat = adventurer.cat?.age;
 
   console.log(cat);
   
